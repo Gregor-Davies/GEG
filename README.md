@@ -15,9 +15,9 @@ Geg Vapor - ( This feature is in BETA so their may be some errors in the code ) 
 Want me to add a command suggest one by opening a issue and I will implement it!
 
 How to install & run the bot:
-- Install Node.js
-- Install Discord.js
-- Create a Discord token on the Discord Developer Page with all the scopes
-- Run the bot with: node i (In the terminal)
+- Install Node.js.
+- Install Discord.js.
+- Create a Discord token on the Discord Developer Page with all the scopes.
+- Run the bot with: node i (In the terminal).
 
 Lastly don't forget to have fun! If you create something cool with this please link it to me and I will feature it on this page.
