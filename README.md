@@ -10,6 +10,8 @@ Geg Clap - Forces GEG Bot to clap your message.
 
 Geg Doot - Forces GEG Bot to doot your message.
 
+Geg Ping - Check's your ping to Discords servers & API
+
 Geg Vapor - ( This feature is in BETA so their may be some errors in the code ) Forces GEG Bot to vaporwave your message.
 
 Want me to add a command suggest one by opening a issue and I will implement it!
