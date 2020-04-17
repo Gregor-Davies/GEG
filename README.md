@@ -6,7 +6,7 @@ This Bot is provided in the state of "As is" If there is a error feel free to op
 Commands:
 Geg Say - Forces GEG Bot to send your message as a embed
 
-Geg clap -Forces GEG Bot to clap your message
+Geg clap - Forces GEG Bot to clap your message
 
 Geg Doot - Forces GEG Bot to doot your message
 
