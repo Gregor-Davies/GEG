@@ -19,3 +19,5 @@ How to install & run the bot:
 - Install Discord.js
 - Create a Discord token on the Discord Developer Page with all the scopes
 - Run the bot with: node i (In the terminal)
+
+Lastly don't forget to have fun! If you create something cool with this please link it to me and I will feature it on this page.
