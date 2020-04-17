@@ -4,11 +4,11 @@ GEG Bot is a fun orientated Discord bot made with Discord.js/Node.js (This disco
 This Bot is provided in the state of "As is" If there is a error feel free to open a issue and I will get around to fixing it.
 
 Commands:
-Geg Say - Forces GEG Bot to send your message as a embed
+Geg Say - Forces GEG Bot to send your message as a embed.
 
-Geg Clap - Forces GEG Bot to clap your message
+Geg Clap - Forces GEG Bot to clap your message.
 
-Geg Doot - Forces GEG Bot to doot your message
+Geg Doot - Forces GEG Bot to doot your message.
 
 Geg Vapor - ( This feature is in BETA so their may be some errors in the code ) Forces GEG Bot to vaporwave your message.
 
