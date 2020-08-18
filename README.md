@@ -11,6 +11,7 @@ Want me to add a command suggest one by opening a issue and I will implement it!
 How to install & run the bot:
 - Install Node.js.
 - Install Discord.js.
+- Install Lavalink
 - Create a Discord token on the Discord Developer Page with all the scopes.
 - Paste your token where it says "YOURTOKEN" in the .env file.
 - Run the bot with: node i (In the node.js terminal).
