@@ -1,4 +1,5 @@
 # GEG
+[![CodeFactor](https://www.codefactor.io/repository/github/gregor-davies/geg/badge)](https://www.codefactor.io/repository/github/gregor-davies/geg)
 GEG Bot is a fun orientated Discord bot made with Discord.js/Node.js (This discord bot will require a discord token from the discord api and a server with node.js)
 
 This Bot is provided in the state of "As is" If there is a error feel free to open a issue and I will get around to fixing it, a link to the actual bot will be posted soon.
