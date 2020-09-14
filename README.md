@@ -1,5 +1,5 @@
 # GEG
-[![CodeFactor](https://www.codefactor.io/repository/github/gregor-davies/geg/badge)](https://www.codefactor.io/repository/github/gregor-davies/geg) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/gregor-davies/geg/issues)[![HitCount](http://hits.dwyl.com/gregor-davies/GEG.svg)](http://hits.dwyl.com/gregor-davies/GEG)
+[![CodeFactor](https://www.codefactor.io/repository/github/gregor-davies/geg/badge)](https://www.codefactor.io/repository/github/gregor-davies/geg) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/gregor-davies/geg/issues) [![HitCount](http://hits.dwyl.com/gregor-davies/GEG.svg)](http://hits.dwyl.com/gregor-davies/GEG)
 
 
 
